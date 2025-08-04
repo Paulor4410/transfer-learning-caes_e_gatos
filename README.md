@@ -26,4 +26,10 @@ Usamos `cats_vs_dogs` via `tensorflow_datasets`, com divisão 80/10/10 (treino/v
 ## Como customizar com suas próprias classes
 Organize suas imagens assim:
 
+data/custom/train/classeA/
+data/custom/train/classeB/
+data/custom/val/classeA/
+data/custom/val/classeB/
+
+
 
